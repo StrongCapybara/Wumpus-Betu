@@ -1,6 +1,6 @@
 # Wumpus World Simulator
 
-A Wumpus World Simulator developed in Javascript, HTML and CSS
+A Wumpus World Simulator developed in Javascript, HTML and CSS with my friend's photos as the main player.
 
 [![GitHub Release](https://img.shields.io/github/release/thiagodnf/wumpus-world-simulator.svg)](https://github.com/thiagodnf/wumpus-world-simulator/releases/latest)
 [![GitHub contributors](https://img.shields.io/github/contributors/thiagodnf/wumpus-world-simulator.svg)](https://github.com/thiagodnf/wumpus-world-simulator/graphs/contributors)
